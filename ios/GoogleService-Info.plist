@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1016989182693-c3l2png4a2rn77dqk68p3toih7953lei.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1016989182693-c3l2png4a2rn77dqk68p3toih7953lei</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzYPfbf12TE90P76A1kT_gOi91CByxsEM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1016989182693</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.burgerMobile</string>
+	<key>PROJECT_ID</key>
+	<string>burger-app-94815</string>
+	<key>STORAGE_BUCKET</key>
+	<string>burger-app-94815.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1016989182693:ios:aae06e3a4113014a33020c</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+module Pods_burgerMobile {
+  umbrella header "Pods-burgerMobile-umbrella.h"
+
+  export *
+  module * { export * }
+}
